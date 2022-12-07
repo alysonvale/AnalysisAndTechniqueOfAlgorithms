@@ -13,7 +13,7 @@ public class AppMochila {
 
         System.out.print("Escolha a quantidade de itens:");
         n = sc.nextInt();
-        System.out.print("1 - PD | 2 - Recursivo Memoizado | 3 - Recursivo:");
+        System.out.print("1 - PD ou 2 - Recursivo Memoizado ou 3 - Recursivo:");
         op = sc.nextInt();
         System.out.print("Tamanho da mochila:");
         W = sc.nextInt();
